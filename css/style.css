@@ -128,15 +128,22 @@ margin-top: 1%;
 font-weight: bolder;
 color:#888899;
  }
- .texto3 button, .texto6 button{
+ .texto3 button {
      background-color: rgb(234, 234, 235);
     padding: 0px 0.8rem;
      border-radius: 9000px;
      -webkit-box-align: center;
      align-items: center;
      color:#888899;
-     
-      }
+           }
+.texto6 button{
+   background-color: rgb(234, 234, 235);
+    padding: 0px 0.8rem;
+     border-radius: 9000px;
+     -webkit-box-align: center;
+     align-items: center;
+     color:#888899;
+}
 .texto3 button:hover, .texto6 button:hover{
         background-color: rgb(222, 222, 223);
       }
