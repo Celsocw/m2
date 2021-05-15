@@ -128,7 +128,7 @@ margin-top: 1%;
 font-weight: bolder;
 color:#888899;
  }
- .texto3 .texto6 button{
+ .texto3 button, .texto6 button{
      background-color: rgb(234, 234, 235);
     padding: 0px 0.8rem;
      border-radius: 9000px;
