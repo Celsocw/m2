@@ -273,9 +273,10 @@ color:#888899;
 {
     background-color: #9147ff;
     color: #ffffff;
-    width: 100px;
+    width: auto;
     font-family: 'Inter', sans-serif;
     font-weight: bold;
+ 
 }
 
 .register-btn:hover
